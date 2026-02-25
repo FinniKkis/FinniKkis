@@ -1,6 +1,6 @@
 <h1 align="center"> Finnik / Frontend developer and UX_UI Design </h1>
 
-###
+### Tech Stack ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
