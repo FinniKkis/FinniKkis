@@ -13,9 +13,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
@@ -48,6 +52,14 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="pr log"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae log"  />
+</div>
+
+###
+
+<h2 align="center"> Contacts </h2>
+<div>
+  <a hrer=""><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma log"  />
+  <img width="12" />
 </div>
 
 ###
