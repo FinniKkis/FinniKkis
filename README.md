@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Flowseal / experienced coder </h1>
+<h1 align="center"> Finnik / Frontend developer and UX_UI Design </h1>
 
 ###
 
