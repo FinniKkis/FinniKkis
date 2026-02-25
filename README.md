@@ -62,7 +62,7 @@
   <img width="12" /></a>
   <a hrer="max.fortunatov@gmail.com"><img src="https://images.icon-icons.com/2631/PNG/256/gmail_new_logo_icon_159149.png" height="40" alt="gmail log"  />
   <img width="12" /></a>
-  <a hrer=""><img src="https://images.icon-icons.com/642/PNG/256/behance_icon-icons.com_59224.png" height="40" alt="behance log"  />></a>
+  <a hrer=""><img src="https://images.icon-icons.com/642/PNG/256/behance_icon-icons.com_59224.png" height="40" alt="behance log"  /></a>
 </div>
 
 ###
