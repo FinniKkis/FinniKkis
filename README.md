@@ -15,7 +15,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js,html,css" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -33,7 +37,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma log"  />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps log"  />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai log"  />
