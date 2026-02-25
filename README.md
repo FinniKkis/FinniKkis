@@ -57,8 +57,8 @@
 ###
 
 <h2 align="center"> Contacts </h2>
-<div>
-  <a hrer=""><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma log"  />
+<div align="center">
+  <a hrer=""><img src="https://images.icon-icons.com/642/PNG/256/behance_icon-icons.com_59224.png" height="40" alt="figma log"  />
   <img width="12" />
 </div>
 
