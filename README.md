@@ -1,4 +1,4 @@
-<h1 align="center"> Finnik / Frontend developer and UX_UI Design </h1>
+<h1 style="color=pink" align="center"> Finnik / Frontend developer and UX_UI Design </h1>
 
 ###
 <p align="center">
