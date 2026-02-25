@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -49,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="pr log"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae log"  />
-  <img width="12" />
 </div>
 
 ###
