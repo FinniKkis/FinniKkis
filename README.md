@@ -13,9 +13,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -29,6 +29,16 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
+<div>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma log"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps log"  />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai log"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="pr log"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae log"  />
 </div>
 
 ###
