@@ -1,4 +1,4 @@
-<h1 align="center"> Finnik / Frontend developer and UX_UI Design </h1>
+<h1 align="center"> Finnik / Fullstack developer and UX_UI Design </h1>
 
 ###
 <p align="center">
